@@ -19,13 +19,10 @@
 </div>
 
 ---
-👩‍🎓 Completed **Master of Technology (M.Tech)** in Computer Science and Engineering from [MACE](https://www.mace.ac.in/)
-
 ### 💻 About Me :
 
 - 📊: Certified **Data Analyst || Instructor**.
-- 👀 **1.8 years** of exposure in data exploration, analysis, and visualization as well as teaching programming languages like **Python, SQL in BigQuery, HTML, CSS**, and others 
-- 🌱 This profile showcases my skills in **Data Cleaning and Analysis using SQL in Bigquery, Data Visualization using Tableau**.
+- 👀 **1.8 years** of exposure in **data cleaning, analysis, and visualization** as well as teaching programming languages like **Python, SQL in BigQuery, HTML, CSS**, and others 
 - 📫 How to reach me: pt.harshima@gmail.com
 - 🌐 Click to see: [My Portfolio](https://sites.google.com/view/harshima-pt/home)
 ---
