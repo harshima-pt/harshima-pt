@@ -2,7 +2,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://cdn.dribbble.com/users/2514124/screenshots/5439070/girl_3.gif" width="350"/>
+  <img src="https://cdn.dribbble.com/users/2514124/screenshots/5439070/girl_3.gif" width="250"/>
 </div>
 <div id="badges" align ="center">
   <a href="www.linkedin.com/in/harshima-pt">
