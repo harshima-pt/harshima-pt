@@ -5,7 +5,7 @@
   <img src="https://cdn.dribbble.com/users/2514124/screenshots/5439070/girl_3.gif" width="250"/>
 </div>
 <div id="badges" align ="center">
-  <a href="www.linkedin.com/in/harshima-pt">
+  <a href="https://www.linkedin.com/in/fathimathul-harshima-pt/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://github.com/harshima-pt">
@@ -21,7 +21,6 @@
 ---
 👩‍🎓 Completed **Master of Technology (M.Tech)** in Computer Science and Engineering from [MACE](https://www.mace.ac.in/)
 
-
 ### 💻 About Me :
 
 - 📊: Certified **Data Analyst || Instructor**.
@@ -30,7 +29,6 @@
 - 📫 How to reach me: pt.harshima@gmail.com
 - 🌐 Click to see: [My Portfolio](https://sites.google.com/view/harshima-pt/home)
 ---
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
